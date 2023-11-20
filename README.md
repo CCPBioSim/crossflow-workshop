@@ -2,15 +2,15 @@
 
 The workshop timings are as follows:
 
-09.00 Workshop Begins - RM 1.49
+09.00 - Workshop Begins - RM 1.49
 
-10.00 Coffee Break
+10.00 - Coffee Break
 
-12.30 Lunch - RM 1.34
+12.30 - Lunch - RM 1.34
 
-15:00 Coffee Break
+15:00 - Coffee Break
 
-17:00 Worksop Ends
+17:00 - Worksop Ends
 
 
 You can find the initial documentation for the workshop sessions here:
